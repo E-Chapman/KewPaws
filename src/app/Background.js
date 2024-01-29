@@ -6,7 +6,7 @@ export default function Background() {
     <Image
       src={backgroundImage}
       placeholder="blur"
-      alt="background"
+      alt="Photograph of a dog, taken by Fabian Gieske"
       fill
       sizes="100vw"
       style={{
